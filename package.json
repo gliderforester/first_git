@@ -1,0 +1,28 @@
+{
+  "name": "kodilla-first-project",
+  "version": "1.0.0",
+  "description": "kodilla grunt exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gliderforester/first_git.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "gliderforester",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gliderforester/first_git/issues"
+  },
+  "homepage": "https://github.com/gliderforester/first_git#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
