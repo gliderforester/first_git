@@ -1,7 +1,7 @@
 {
-  "name": "kodilla-first-project",
+  "name": "kodilla-grunt-example",
   "version": "1.0.0",
-  "description": "kodilla grunt exercise",
+  "description": "example_grunt_project",
   "main": "index.js",
   "scripts": {
     "test": "kodilla-test"
@@ -21,6 +21,7 @@
   "homepage": "https://github.com/gliderforester/first_git#readme",
   "devDependencies": {
     "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
     "grunt-contrib-imagemin": "^1.0.1",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-sass": "^2.0.0"
